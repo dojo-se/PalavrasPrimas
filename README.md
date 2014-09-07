@@ -17,4 +17,4 @@ Você precisa definir se cada palavra em um conjunto de palavras é prima ou nã
 
 [OK!](https://github.com/dojo-se/PalavrasPrimas).
 
-##[Veja mais no http://dojo-se.org/]
+##[Veja mais no Dojo-SE.org](http://dojo-se.org/)
